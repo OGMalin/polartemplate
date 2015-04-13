@@ -139,7 +139,6 @@ $center='span'.(12-$useleft-$useright);
 					<jdoc:include type="modules" name="footer" style="none" />
 				</div>
 				<?php endif; ?>
-				</div>
 			</div>
 			<jdoc:include type="modules" name="debug" style="none" />
 		</div>
